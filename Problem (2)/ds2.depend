@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1650203394 source:d:\new folder (2)\ds2\main.cpp
+	<bits/stdc++.h>
+	"fractionCalculator.h"
+	"fraction.h"
+
+1650247139 d:\new folder (2)\ds2\include\fractioncalculator.h
+	<iostream>
+	"fraction.h"
+
+1650249456 d:\new folder (2)\ds2\include\fraction.h
+	<iostream>
+
+1651040865 source:d:\new folder (2)\ds2\src\fractioncalculator.cpp
+	"fraction.h"
+	"fractionCalculator.h"
+	<bits/stdc++.h>
+
+1650372980 source:d:\new folder (2)\ds2\src\fraction.cpp
+	<bits/stdc++.h>
+	"fraction.h"
+	"fractionCalculator.h"
+
+1651075636 source:c:\users\saraa\downloads\ds2\ds2\main.cpp
+	<bits/stdc++.h>
+	"fractionCalculator.h"
+
+1650247139 c:\users\saraa\downloads\ds2\ds2\include\fractioncalculator.h
+	<iostream>
+	"fraction.h"
+
+1650249456 c:\users\saraa\downloads\ds2\ds2\include\fraction.h
+	<iostream>
+
+1651075638 source:c:\users\saraa\downloads\ds2\ds2\src\fraction.cpp
+	<bits/stdc++.h>
+	"fraction.h"
+
+1651075646 source:c:\users\saraa\downloads\ds2\ds2\src\fractioncalculator.cpp
+	"fractionCalculator.h"
+	<bits/stdc++.h>
+
+1651075636 source:c:\fcai\level 2\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\ds2\main.cpp
+	<bits/stdc++.h>
+	"fractionCalculator.h"
+
+1650247139 c:\fcai\level 2\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\ds2\include\fractioncalculator.h
+	<iostream>
+	"fraction.h"
+
+1650249456 c:\fcai\level 2\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\ds2\include\fraction.h
+	<iostream>
+
+1651075638 source:c:\fcai\level 2\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\ds2\src\fraction.cpp
+	<bits/stdc++.h>
+	"fraction.h"
+
+1651075646 source:c:\fcai\level 2\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\ds2\src\fractioncalculator.cpp
+	"fractionCalculator.h"
+	<bits/stdc++.h>
+
+1651075636 source:c:\fcai\level 2\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\main.cpp
+	<bits/stdc++.h>
+	"fractionCalculator.h"
+
+1650247139 c:\fcai\level 2\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\include\fractioncalculator.h
+	<iostream>
+	"fraction.h"
+
+1650249456 c:\fcai\level 2\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\include\fraction.h
+	<iostream>
+
+1651075638 source:c:\fcai\level 2\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\src\fraction.cpp
+	<bits/stdc++.h>
+	"fraction.h"
+
+1651075646 source:c:\fcai\level 2\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\src\fractioncalculator.cpp
+	"fractionCalculator.h"
+	<bits/stdc++.h>
+
+1651084932 source:c:\fcai\level 2\term 2\data structure\ass\ass 1\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\main.cpp
+	<bits/stdc++.h>
+	"fractionCalculator.h"
+
+1650247139 c:\fcai\level 2\term 2\data structure\ass\ass 1\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\include\fractioncalculator.h
+	<iostream>
+	"fraction.h"
+
+1650249456 c:\fcai\level 2\term 2\data structure\ass\ass 1\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\include\fraction.h
+	<iostream>
+
+1651075638 source:c:\fcai\level 2\term 2\data structure\ass\ass 1\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\src\fraction.cpp
+	<bits/stdc++.h>
+	"fraction.h"
+
+1651084484 source:c:\fcai\level 2\term 2\data structure\ass\ass 1\a1_20200215_20201048_20200574_20201178\a1_p2__20200215_20201048_20200574_20201178\src\fractioncalculator.cpp
+	"fractionCalculator.h"
+	<bits/stdc++.h>
+
